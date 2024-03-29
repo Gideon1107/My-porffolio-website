@@ -1,0 +1,67 @@
+/* html{
+    font-family: "Poppins", sans-serif;
+} */
+
+/* body{
+    font-family: "Poppins", sans-serif;
+} */
+
+.navbar{
+    margin: 0;
+    padding: 0;
+}
+
+#headernavbar ul li a{
+    color: black;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#headernavbar ul li a:hover{
+    color: lightcoral;
+}
+
+.navbar-brand{
+    padding-left: 30px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.navbarheader{
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
+    padding: 8px;
+}
+
+.fa-stack{
+    color: black;
+}
+
+.fa-stack:hover{
+    color: lightcoral;
+}
+
+.skills p{
+    font-family: "Mulish", sans-serif;
+    font-weight: 700;
+    /* border-right: 2px solid rgba(45, 46, 50, .5); */
+    padding-right: 2rem;
+    margin-right: 3rem;
+    font-size: larger;
+    
+}
+
+.logos ul{
+    display: flex;
+    gap: 30px;
+}
+
+.logos ul img {
+    height: 40px;
+}
+
+.about #about{
+    font-family: "Mulish", sans-serif;
+    font-weight: 400;
+}
